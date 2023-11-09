@@ -1,18 +1,18 @@
-package com.github.zipcodewilmington.sample;
+//package com.github.zipcodewilmington.sample;
 
-public interface PersonInterface {
-    String getFirstName();
+//public interface PersonInterface {
+ //   String getFirstName();
 
-    void setFirstName(String firstName);
+ //   void setFirstName(String firstName);
 
-    String getLastName();
+ //   String getLastName();
 
-    void setLastName(String lastName);
+ //   void setLastName(String lastName);
 
-    Integer getAge();
+ //   Integer getAge();
 
-    void setAge(Integer age);
+// void setAge(Integer age);
 
-    @Override
-    String toString();
-}
+ //   @Override
+ //   String toString();
+//}
